@@ -24,3 +24,4 @@ button.pack(pady=10)
 
 # 進入事件迴圈
 root.mainloop()
+hello
